@@ -1,4 +1,7 @@
-// Monte Carlo simulation of Gambler's ruin
+/* Monte Carlo simulation of Gambler's ruin
+   https://en.wikipedia.org/wiki/Gambler%27s_ruin
+ */
+
 public class Gambler {
     public static void main(String[] args) {
         int stake = Integer.parseInt(args[0]);

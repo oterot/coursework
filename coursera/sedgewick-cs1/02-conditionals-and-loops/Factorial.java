@@ -1,4 +1,5 @@
 // example of for loop, used to calculate factorial product
+
 public class Factorial {
     public static void main(String[] args) {
         int N = Integer.parseInt(args[0]);

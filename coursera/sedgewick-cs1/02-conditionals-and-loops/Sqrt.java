@@ -1,4 +1,6 @@
-// approximates the square root function using Newton-Raphson method
+/* approximates the square root function using Newton-Raphson method
+   https://en.wikipedia.org/wiki/Newton%27s_method
+ */
 
 public class Sqrt {
     public static void main(String[] args) {
